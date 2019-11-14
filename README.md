@@ -17,4 +17,5 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-None
+Udacity Git Commit Message Style Guide
+https://udacity.github.io/git-styleguide/
