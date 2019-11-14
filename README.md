@@ -8,7 +8,7 @@
 Bikeshare Project
 
 ### Description
-Explore data provided by Motivate, a bike share system provier, to learn bike share usage patterns for three major cities in United States - Chicago, New York City, and Washington.  The program will interact with you by asking some question and will compute a variety of descriptive statistics according to your answer.  
+Describe what your project is about and what it does
 
 ### Files used
 bikeshare.py
